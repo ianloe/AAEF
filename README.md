@@ -1,5 +1,7 @@
 # AAEF
 
+<img src="AAEF-logo.png" alt="AAEF logo" width="200">
+
 **AI Agent Evaluation Framework**
 
 AAEF is a structured framework for evaluating AI agents as operational contributors rather than software tools. It treats AI agents as a new category of labour: capable of autonomous action, subject to performance assessment, and requiring governance commensurate with the authority they hold.
